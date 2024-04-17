@@ -19,4 +19,3 @@
   <img align="center" alt="tlcampos-Python" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
 
-<!--![snake gif](https://github.com/tlcampos/tlcampos/blob/output/github-contribution-grid-snake.svg) -->
